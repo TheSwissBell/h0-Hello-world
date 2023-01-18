@@ -3,6 +3,8 @@ Information Security Course HH, first task
 
 Markdown example
 
+![Haaga-Helia logo](https://www.haaga-helia.fi/themes/custom/hh/logo.png)
+
 # h1 Heading 8-)
 ## h2 Heading
 ### h3 Heading
