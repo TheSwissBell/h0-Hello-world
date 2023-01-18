@@ -5,12 +5,23 @@ Markdown example
 
 ![Haaga-Helia logo](https://www.haaga-helia.fi/themes/custom/hh/logo.png)
 
-# h1 Heading 8-)
+Result -->
+
+# h1 Heading
+
+Markdown:
+
+`# h1 Heading`
 ## h2 Heading
+`## h2 Heading`
 ### h3 Heading
+`### h3 Heading`
 #### h4 Heading
+`#### h4 Heading`
 ##### h5 Heading
+`##### h5 Heading`
 ###### h6 Heading
+`###### h6 Heading`
 
 
 ## Horizontal Rules
